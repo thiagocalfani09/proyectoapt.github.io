@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+}
+h1 {
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+
+}
+h2 {
+    align-items: center;
+}
+header {
+    background-color: rgb(88, 47, 40);
+}
+footer {
+    background-color: rgb(85, 24, 13);
+    font-size: small;
+    left: 10px;
+}
+h3 {
+    text-align-last: center;
+
+}
+h4 {
+    background-color: blanchedalmond;
+}
+button1 { 
+    font-family: Arial, sans-serif;
+}
+button2{
+    font-family: Arial, sans-serif;
+}
+button3{
+    font-family: Arial, sans-serif;
+}
+nav{
+    background-color: rgb(88, 47, 40);
+    padding: 15px 20px;
+    
+}
